@@ -9,11 +9,11 @@ body{
 }
 .side-image{
     background-image: url(img/leaves.jpg);
-    background-size: contain;
-    flex-grow: 2;
+    background-size: cover;
+    flex-grow: 1;
 }
 
 .info{
     background-color: pink;
-    flex-grow: 3;
+    flex-grow: 2;
 }
