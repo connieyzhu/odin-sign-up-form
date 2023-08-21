@@ -9,6 +9,7 @@ body{
 }
 .side-image{
     background-image: url(img/leaves.jpg);
+    background-size: contain;
     flex-grow: 2;
 }
 
