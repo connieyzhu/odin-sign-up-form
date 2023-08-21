@@ -37,3 +37,30 @@ body{
     background-color: pink;
     flex-grow: 2;
 }
+
+.info > * {
+    padding-left: 50px;
+}
+
+.form-section{
+    background-color: white;
+}
+
+.input-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-row{
+    display: flex;
+    margin-right: 200px;
+    gap: 50px;
+}
+
+.form-input{
+    flex: 40%;
+    
+    display: flex;
+    flex-direction: column;;
+}
