@@ -11,6 +11,7 @@ body{
     background-image: url(img/leaves.jpg);
     background-size: cover;
     flex-grow: 1;
+    width: 33vw;
 
     display: flex;
     flex-direction: column-reverse;
